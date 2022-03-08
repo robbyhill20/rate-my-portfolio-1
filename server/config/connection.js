@@ -1,15 +1,10 @@
 const mongoose = require('mongoose');
 require('dotenv').config()
 
-mongoose.connect(
-process.env.MONGODB_URI || 'mongodb://127.0.0.1/rate-my-portfolio-app',
-
-  {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-    useCreateIndex: true,
-    useFindAndModify: false,
-  }
-);
+const mongoose = require('mongoose');
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/socialmedia', {
+  useNewUrlParser: true,
+  useUnifiedTopology: true
+});
 
 module.exports = mongoose.connection;
