@@ -1,0 +1,38 @@
+[
+  {
+    "portfolioText": "Ashleigh Simonelli's Portfolio",
+    "portfolioImage": "https://imgdb.net/storage/uploads/f2544d886ed16f0abe651e0fd736f5d085fba10dfe53a93e29f2c3be62e6c18e.png",
+    "portfolioLink": "https://ashleighsimonelli.co.uk/",
+    "portfolioAuthor": "Ashleigh Simonelli"
+  },
+  {
+    "portfolioText": "Brittany Chiang's Portfolio",
+    "portfolioImage": "https://imgdb.net/storage/uploads/dfc665d1f4915a5ab4bc459e3adff704e5e2887646479f69c424fcae62de4371.jpg",
+    "portfolioLink": "https://brittanychiang.com/",
+    "portfolioAuthor": "Brittany Chiang"
+  },
+  {
+    "portfolioText": "Joshua Chinwendu's Portfolio",
+    "portfolioImage": "https://imgdb.net/storage/uploads/c0950ede1428cec37011fc21579615190b7ee0a2a6c2acccb1c66fa80b8eecc2.jpg",
+    "portfolioLink": "https://joshualine.github.io/",
+    "portfolioAuthor": "Joshua Chinwendu"
+  },
+  {
+    "portfolioText": "Lisa Savoie's Portfolio",
+    "portfolioImage": "https://imgdb.net/storage/uploads/6a5168d7018b5ecfbe62389ed847af63536385756432e0bdf38f1a022d5a7c03.jpg",
+    "portfolioLink": "https://lscodes.com/",
+    "portfolioAuthor": "Lisa Savoie"
+  },
+  {
+    "portfolioText": "Julia Johnson's Portfolio",
+    "portfolioImage": "https://imgdb.net/storage/uploads/c09def4d427966816a940fedc00fcfe948113841db3d3f1afecf75059b1151fb.jpg",
+    "portfolioLink": "https://www.juliacodes.com/",
+    "portfolioAuthor": "Julia Johnson"
+  },
+  {
+    "portfolioText": "Dillion Megida's Portfolio",
+    "portfolioImage": "https://imgdb.net/storage/uploads/4b1747cf2512e0688490e64505f8a5091b1762c542b425a2e2349d7c890f7a34.jpg",
+    "portfolioLink": "https://dillionmegida.com/",
+    "portfolioAuthor": "Dillion Megida"
+  }
+]
